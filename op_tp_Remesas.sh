@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#remesas editadas para tarea de GIT
 # +-------------------------------------------------------------+
 # | Autor: IOA							|
 # | Proposito: Script de control para ejecucion de remesas	|
